@@ -1109,9 +1109,8 @@ img {
 .thumbnail a > img,
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  max-width: 100%;
   display: block;
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 .img-rounded {
@@ -6763,18 +6762,5 @@ body {
   width: 100%;
   height: auto;
 }
-.img-responsive,
-.thumbnail > img,
-.thumbnail a > img,
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img,
-.thumbnail > img,
-.thumbnail a > img,
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
 
-/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJjc3MvYXBwLmRiN2I3MzZjNDYwZmVlYTViZTU0MmVhODQwNTdkM2VkLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJjc3MvYXBwLjNiMTEzYzMwYzA5MDM5YzMxMzZjNDlmYmY5ZjFmMGE1LmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/
